@@ -1,6 +1,6 @@
 {
-  "name": "AR Connect",
-  "short_name": "AR Connect",
+  "name": "AR Manage",
+  "short_name": "AR Manage",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
