@@ -1,10 +1,10 @@
-const CACHE_NAME = "ar-manage-cache-v1";
+const CACHE_NAME = "ar-manage-cache-v2";
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/manifest.json",
-  "/icon-192.png",
-  "/icon-512.png"
+  "/Biz-Pro/",
+  "/Biz-Pro/index.html",
+  "/Biz-Pro/manifest.json",
+  "/Biz-Pro/icon-192.png",
+  "/Biz-Pro/icon-512.png"
 ];
 
 self.addEventListener("install", (event) => {
